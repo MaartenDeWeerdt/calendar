@@ -12,7 +12,7 @@
     "lodash": "^4.17.5",
     "prop-types": "^15.6.0",
     "react": "16.2.0",
-    "react-native": "0.53.0",
+    "react-native": "0.70.2",
     "react-native-circular-slider": "^1.0.1",
     "react-native-dropdownalert": "^3.3.0",
     "react-native-extended-stylesheet": "^0.8.1",
